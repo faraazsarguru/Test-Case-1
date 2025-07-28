@@ -6,3 +6,4 @@ step3 - Make app.py file and requirements.txt file
 step4 - use langchain for API Key
 step5 - Download Ollama 
 Step6 - Run the APP by streamlit run app.py type in Terminal
+
